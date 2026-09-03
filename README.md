@@ -4,9 +4,9 @@
 
 ### Data Science Student | Python | SQL | Power BI | Machine Learning
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoanajuliaamorim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-amorim-4808a12a5)
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anajuamorim)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatoanajuliaamorim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-julia-amorim-4808a12a5)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anajuamorim)
 
 </div>
 
